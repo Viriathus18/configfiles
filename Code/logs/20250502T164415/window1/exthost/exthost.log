@@ -1,0 +1,13 @@
+2025-05-02 16:44:16.639 [info] Extension host with pid 111412 started
+2025-05-02 16:44:16.702 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-02 16:44:16.732 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-02 16:44:16.831 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-05-02 16:44:16.842 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-02 16:44:16.877 [info] Eager extensions activated
+2025-05-02 16:44:16.889 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 16:44:16.892 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-02 16:44:17.025 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-02 16:44:17.037 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-02 16:44:17.089 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-02 16:44:56.288 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-02 16:44:56.305 [info] Extension host with pid 111412 exiting with code 0

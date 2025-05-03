@@ -1,0 +1,37 @@
+2025-05-03 01:40:45.704 [info] [main] Log level: Info
+2025-05-03 01:40:45.704 [info] [main] Validating found git in: "git"
+2025-05-03 01:40:45.704 [info] [main] Using git "2.49.0" from "git"
+2025-05-03 01:40:45.704 [info] [Model][doInitialScan] Initial repository scan started
+2025-05-03 01:40:45.704 [info] > git rev-parse --show-toplevel [4ms]
+2025-05-03 01:40:45.704 [info] > git rev-parse --git-dir --git-common-dir [6ms]
+2025-05-03 01:40:45.704 [info] [Model][openRepository] Opened repository: /home/ares/Documents/Identity-management
+2025-05-03 01:40:45.726 [info] > git rev-parse --show-toplevel [2ms]
+2025-05-03 01:40:45.727 [info] > git config --get commit.template [12ms]
+2025-05-03 01:40:45.748 [info] > git rev-parse --show-toplevel [13ms]
+2025-05-03 01:40:45.762 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-05-03 01:40:45.764 [info] > git rev-parse --show-toplevel [5ms]
+2025-05-03 01:40:45.768 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-05-03 01:40:45.855 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-03 01:40:45.872 [info] > git status -z -uall [23ms]
+2025-05-03 01:40:45.908 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [13ms]
+2025-05-03 01:40:45.914 [info] > git config --get --local branch.main.vscode-merge-base [2ms]
+2025-05-03 01:40:45.919 [info] > git config --get commit.template [12ms]
+2025-05-03 01:40:45.922 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2025-05-03 01:40:46.079 [info] > git merge-base refs/heads/main refs/remotes/origin/main [146ms]
+2025-05-03 01:40:46.134 [info] > git diff --name-status -z --diff-filter=ADMR 6da04b68e9dc39743deb405e5b6057af7646d588...refs/remotes/origin/main [48ms]
+2025-05-03 01:40:46.135 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [61ms]
+2025-05-03 01:40:46.153 [info] > git show --textconv :backend/server.py [9ms]
+2025-05-03 01:40:46.153 [info] > git ls-files --stage -- backend/server.py [4ms]
+2025-05-03 01:40:46.169 [info] > git cat-file -s 2eb3ca0e09a128fb30e80e0774c197b40bb3e4c6 [3ms]
+2025-05-03 01:40:46.263 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [2ms]
+2025-05-03 01:40:46.291 [info] > git status -z -uall [43ms]
+2025-05-03 01:40:46.322 [info] > git check-ignore -v -z --stdin [4ms]
+2025-05-03 01:40:46.351 [info] > git blame --root --incremental 6da04b68e9dc39743deb405e5b6057af7646d588 -- backend/server.py [3ms]
+2025-05-03 01:41:56.065 [info] > git config --get commit.template [4ms]
+2025-05-03 01:41:56.065 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-05-03 01:41:56.075 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-05-03 01:41:56.088 [info] > git status -z -uall [18ms]
+2025-05-03 01:49:36.541 [info] > git config --get commit.template [4ms]
+2025-05-03 01:49:36.542 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [0ms]
+2025-05-03 01:49:36.552 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [0ms]
+2025-05-03 01:49:36.567 [info] > git status -z -uall [21ms]

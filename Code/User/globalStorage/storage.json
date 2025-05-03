@@ -1,0 +1,65 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "cb4d5a2749ee39350504ff12d7cbf8580033db16e5e94361f1c6a8583c69b0a6",
+    "telemetry.devDeviceId": "a870e146-0328-46ee-b9ce-625044b0e756",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/ares/Documents/Identity-management"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/ares/Documents/Identity-management": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#131913",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "rgba(207, 226, 203, 0.6)",
+            "background": "#131913",
+            "editorBackground": "#131913",
+            "titleBarBackground": "#101510",
+            "titleBarBorder": "rgba(167, 184, 164, 0.2)",
+            "activityBarBackground": "#101510",
+            "activityBarBorder": "rgba(167, 184, 164, 0.2)",
+            "sideBarBackground": "#101510",
+            "sideBarBorder": "rgba(167, 184, 164, 0.2)",
+            "statusBarBackground": "#101510",
+            "statusBarBorder": "rgba(167, 184, 164, 0.2)",
+            "statusBarNoFolderBackground": "#131913"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 300,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/ares/Documents/Identity-management",
+            "backupPath": "/home/ares/.config/Code/Backups/9488f1dab90abdb26f82bc480a32b4be",
+            "uiState": {
+                "mode": 1,
+                "x": 22,
+                "y": 52,
+                "width": 2004,
+                "height": 1206
+            }
+        },
+        "openedWindows": []
+    }
+}

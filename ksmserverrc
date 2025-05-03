@@ -1,0 +1,16 @@
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1041726368000174620877100000241730004
+clientId2=1041726368000174620881100000241730007
+count=2
+discardCommand2[$e]=rm,$HOME/.config/session/systemsettings_1041726368000174620881100000241730007_1746208961_972756
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/systemsettings
+restartCommand1=/usr/lib/DiscoverNotifier,-session,1041726368000174620877100000241730004_1746208961_972647
+restartCommand2=/usr/bin/systemsettings,-session,1041726368000174620881100000241730007_1746208961_972756
+restartStyleHint1=0
+restartStyleHint2=0
+userId1=ares
+userId2=ares

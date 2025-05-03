@@ -1,0 +1,9 @@
+[GuiConfig]
+captureMode=5
+
+[ImageSave]
+lastImageSaveLocation=file:///home/ares/Pictures/Screenshots/Screenshot_20250502_162700.png
+translatedScreenshotsFolder=Screenshots
+
+[VideoSave]
+translatedScreencastsFolder=Screencasts

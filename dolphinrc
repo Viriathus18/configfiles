@@ -1,0 +1,21 @@
+[ExtractDialog]
+1766x1103 screen: Height=552
+1766x1103 screen: Width=1177
+DirHistory[$e]=$HOME/Downloads/
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,5,1,13,42,15.623
+
+[IconsMode]
+PreviewSize=48
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+
+[Search]
+Location=Everywhere
